@@ -1,4 +1,7 @@
 # Harajuku-Station-wooden-building_Tokyo
+CC-BY-4.0 - RuinDig
+<div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png" /></a></div>
+
 JR東日本の原宿駅の木造駅舎の外観。撮影時期：2018年10月
 
 ![Harajuku-Station-wooden-building_Tokyo_01](https://user-images.githubusercontent.com/20723919/111247190-e73a6d80-864a-11eb-9442-2f4fa1697b33.jpg)
